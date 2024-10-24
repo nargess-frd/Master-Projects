@@ -1,0 +1,2 @@
+In this project, we will leverage a dataset from Kaggle containing airline passenger satisfaction surveys to develop an artificial intelligence model. Our goal is to predict passenger satisfaction and compare the efficacy of classical machine learning models with the Tsetlin Machine for this specific task.
+the dataset is available at Kaggle: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
